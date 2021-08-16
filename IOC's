@@ -1,0 +1,129 @@
+HTML attachment name format:
+
+Payment receipt_<4 digits>_<2 digits>$_Xls.html (see sample in VirusTotal)
+Blurred Excel background images:
+
+hxxps://i[.]gyazo[.]com/049bc4624875e35c9a678af7eb99bb95[.]jpg
+hxxps://i[.]gyazo[.]com/7fc7a0126fd7e7c8bcb89fc52967c8ec[.]png
+Phishing domain:
+
+hxxps://es-dd[.]net/file/excel/document[.]php
+August 2020: Contract
+HTML attachment name format:
+
+Contract-<10 digits>.XLS.html (see sample in VirusTotal)
+Links to organization logos:
+
+hxxps://moneyissues[.]ng/wp-content/uploads/2017/10/DHL-LOGO[.]jpg
+hxxps://postandparcel.info/wp-content/uploads/2019/02/DHL-Express-850×476[.]jpg
+Phishing domains:
+
+hxxps://contactsolution[.]com[.]ar/wp-admin/ddhlreport[.]php
+hxxps://www[.]laserskincare[.]ae/wp-admin/css/colors/midnight/reportexcel[.]php
+Late August 2020: Ctr
+HTML attachment name format:
+
+Ctr-<8 digits>_xls.htML (see sample in VirusTotal)
+Hosted JavaScript files:
+
+hxxp://yourjavascript[.]com/40128256202/233232xc3[.]js
+hxxp://yourjavascript[.]com/84304512244/3232evbe2[.]js
+hxxp://yourjavascript[.]com/42580115402/768787873[.]js
+hxxp://yourjavascript[.]com/8142220568/343434-9892[.]js
+hxxp://yourjavascript[.]com/82182804212/5657667-3[.]js
+Phishing domain:
+
+hxxps://gladiator164[.]ru/wp-snapshots/root/0098[.]php?0976668-887
+hxxp://www.aiguillehotel[.]com/Eric/87870000/099[.]php?09098-897887
+November 2020: Organization name
+HTML attachment name format:
+
+<Organization name>-<6 digits>_xls.HtMl (see sample in VirusTotal)
+Hosted JavaScript files:
+
+hxxp://yourjavascript[.]com/1111559227/7675644[.]js – loads the blurred Excel background image
+hxxp://yourjavascript[.]com/2512753511/898787786[.]js
+hxxp://yourjavascript[.]com/1522900921/5400[.]js – steals user password and displays a fake incorrect credentials page
+Phishing domain:
+
+hxxp://tokai-lm[.]jp/root/4556562332/t7678[.]php?787867-76765645
+January 2021: Organization report
+HTML attachment name format:
+
+<Organization name>-Report-<6 digits>_xls.HtMl (see sample in VirusTotal)
+Hosted JavaScript files:
+
+hxxp://yourjavascript[.]com/0221119092/65656778[.]js – loads the blurred Excel background image
+hxxp://yourjavascript[.]com/212116204063/000010887-676[.]js – steals the user password and displays a fake incorrect credentials page
+Phishing domain:
+
+hxxp://tannamilk[.]or[.]jp//_products/556788-898989/0888[.]php?5454545-9898989
+February 2021: Organization report/invoice
+HTML attachment name formats:
+
+<Organization name>-Report-<6 digits>_xls.HtMl (see sample in VirusTotal)
+<Organization name>_invoice_<random numbers>._xlsx.hTML.
+Hosted JavaScript files:
+
+hxxp://coollab[.]jp/dir/root/p/434[.]js
+hxxp://yourjavascript[.]com/0221119092/65656778[.]js – loads the blurred Excel background image
+hxxp://coollab[.]jp/dir/root/p/09908[.]js
+hxxp://yourjavascript[.]com/212116204063/000010887-676[.]js – steals user password and displays a fake incorrect credentials page
+Phishing domains:
+
+hxxp://www[.]tanikawashuntaro[.]com//cgi-bin/root – 6544323232000/0453000[.]php?90989897-45453
+hxxp://tannamilk[.]or[.]jp//_products/556788-898989/0888[.]php?5454545-9898989
+March 2021: Invoice
+HTML attachment name format:
+
+<Organization name>_Invoice_<Day>_-<Date>._xslx.hTML (see sample in VirusTotal)
+Hosted JavaScript files:
+
+hxxp://yourjavascript[.]com/4154317425/6899988[.]js
+hxxp://www[.]atomkraftwerk[.]biz/590/dir/354545-89899[.]js – checks the password length
+hxxp://yourjavascript[.]com/2131036483/989[.]js
+hxxp://www[.]atomkraftwerk[.]biz/590/dir/86767676-899[.]js – loads the blurred background image, steals the user’s password, and displays the fake incorrect credentials popup message
+Phishing domains:
+
+hxxp://coollab[.]jp/local/70/98988[.]php?989898-67676
+hxxps://tannamilk[.]or[.]jp/cgialfa/545456[.]php?7878-9u88989
+May 2021: Payroll
+HTML attachment name format:
+
+<Organization name>_Invoice_<Day> <MM_DD_YYYY>._xsl_x.Html (see sample in VirusTotal)
+Payroll-<6 digits>_xls.HtMl
+Hardcoded links:
+
+hxxps://api[.]statvoo[.]com/favicon/?url=hxxxxxxxx[.]com – Organization logo
+hxxps://mcusercontent[.]com/dc967eaa4412707bedd3fe8ab/images/d2d8355d-7adc-4f07-8b80-e624edbce6ea.png – Blurred PDF background image
+Phishing domains:
+
+hxxps://tannamilk[.]or[.]jp//js/local/33309900[.]php?8738-4526
+hxxp://tokai-lm[.]jp//home-30/67700[.]php?636-8763
+hxxp://coollab[.]jp/009098-50009/0990/099087776556[.]php?-aia[.]com[.]sg
+June 2021: Outstanding clearance slip
+HTML attachment name format:
+
+Outstanding June clearance slip|<random digits>._xslx.hTML
+Organization Logo:
+
+hxxps://api[.]statvoo[.]com/favicon/?url=sxmxxhxxxxp[.]co[.]xx
+Hosted JavaScript file:
+
+hxxp://yourjavascript[.]com/4951929252/45090[.]js
+Phishing domain:
+
+hxxp://tokai-lm[.]jp/style/b9899-8857/8890/5456655[.]php?9504-1549
+July 2021: Purchase order
+HTML attachment name format:
+
+PO<random digits> XLS.html
+Hardcoded links:
+
+hxxps://i[.]gyazo[.]com/dd58b52192fa9823a3dae95e44b2ac27[.]png – Microsoft Excel logo
+hxxps://aadcdn[.]msftauth [.]net/ests/2[.]1/content/images/backgrounds/2_bc3d32a696895f78c19df6c717586a5d[.]svg
+hxxps://i[.]gyazo[.]com/55e996f8ead8646ae65c7083b161c166[.]png – Blurred Excel document background image
+Phishing domains:
+
+hxxps://maldacollege[.]ac[.]in/phy/UZIE/actions[.]php
+hxxps://jahibtech[.]com[.]ng/wp-admta/taliban/office[.]php
